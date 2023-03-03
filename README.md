@@ -1,5 +1,5 @@
 ## Case Study: Pet Products Subscription 
-![pets image](pets.png)
+![pets image](images/pets.png)
 
 ### Table of Contents
 - [Business task](https://github.com/vanessa-ip/pet-product-subscription#business-task)
