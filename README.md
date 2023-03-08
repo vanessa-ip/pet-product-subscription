@@ -1,16 +1,17 @@
-## Case Study: Pet Products Subscription 
-![pets image](images/pets.png)
+## Case Study: Pet Products Subscription (DataCamp)
+![pets image](images/sales_rating_matrix.png)
 
 ### Table of Contents
 - [Business task](https://github.com/vanessa-ip/pet-product-subscription#business-task)
 - [Case study questions](https://github.com/vanessa-ip/pet-product-subscription#case-study-questions)
 - [Solutions on Github](https://github.com/vanessa-ip/pet-product-subscription/blob/main/pet-products-analysis.ipynb)
+- [Visualizations on Tableau](https://public.tableau.com/app/profile/vanessa1607/viz/DataCampcasestudy-petproductsubscription/Popularproducts)
 
 ### Business Task
 PetMind is a nationwide pet product retailer in the United States. With inflation hitting 41-year highs, the company is planning to reduce the cost of customer retention by improving brand loyalty. The first strategy is to launch a monthly pet box subscription in three months.
 The marketing team is preparing a list of popular products for the subscription. The chief marketing officer wants to know whether the list should only include the products being purchased more than once.
 
-### Case study questions
+### Case Study Questions
 
 1. How many products are being purchased more than once?
 2. Do the products being purchased again have better sales than others?
